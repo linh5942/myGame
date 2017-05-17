@@ -1,5 +1,8 @@
 # myGame
 
+Video record
+https://www.youtube.com/watch?v=95dGKm5bpo0
+
 ![img_2312](https://cloud.githubusercontent.com/assets/20759388/26169490/d6baf3be-3b0b-11e7-9f66-2b61368d264b.jpg)
 
 
